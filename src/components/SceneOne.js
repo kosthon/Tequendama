@@ -109,8 +109,8 @@ export default function SceneOne({visible, changeScene}) {
 			<Entity
 				geometry='primitive: plane; width: 0.5; height: 0.5;'
 				material='transparent: true; visible: false'
-				position='1.497 0.275 -2.583'
-				rotation='-16.587 12.599 -5.479'
+				position='-4.219 0.275 -1.538'
+				rotation='-16.587 48.437 -5.479'
 				events={{
 					mouseenter: e => {
 						e.target.setAttribute('scale', {x: 1.2, y: 1.2, z: 1.2});
