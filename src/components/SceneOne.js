@@ -201,16 +201,16 @@ export default function SceneOne({visible, changeScene}) {
 
 			{modalOpenVideo && (
 				<Modal onClose={handleCloseModalVideo}>
-					<iframe
-						width='560'
-						height='315'
-						src='https://www.youtube.com/embed/mWADuvOqbDk?si=g8FEAFHsIjllVye6'
-						title='YouTube video player'
-						frameborder='0'
-						allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
-						referrerpolicy='strict-origin-when-cross-origin'
-						allowfullscreen
-					></iframe>
+					<iframe 
+						width="560"
+						height="315" 
+						src="https://www.youtube.com/embed/mwBA-uYNG7Q?si=P1LaaXGQCsAdtNYN" 
+						title="YouTube video player" 
+						frameborder="0" 
+						allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+						referrerpolicy="strict-origin-when-cross-origin" 
+						allowfullscreen>
+					</iframe>
 				</Modal>
 			)}
 		</Entity>
