@@ -1,0 +1,11 @@
+Model Information:
+* title:	Apartment building/Hotel
+* source:	https://sketchfab.com/3d-models/apartment-buildinghotel-57bafbfd892c41749755aefda20e348b
+* author:	k3ddesign (https://sketchfab.com/K3DDesign)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Apartment building/Hotel" (https://sketchfab.com/3d-models/apartment-buildinghotel-57bafbfd892c41749755aefda20e348b) by k3ddesign (https://sketchfab.com/K3DDesign) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

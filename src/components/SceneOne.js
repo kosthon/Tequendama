@@ -181,7 +181,7 @@ export default function SceneOne({visible, changeScene}) {
 			<Entity
 				gltf-model='/models/person/scene.gltf'
 				position='-2.466 0 -4.284'
-				rotation='-6.959 -19.243 2.358'
+				rotation='-9.546 144.349 -0.270'
 				scale='2 2 2'
 				animation__postition='property: rotation; to: 0 3600 0; dir: alternate; dur: 50000; loop: true;'
 			/>
